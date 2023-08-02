@@ -1,0 +1,13 @@
+//
+//  CollectionViewCellForStory.swift
+//  instagram
+//
+//  Created by R82 on 25/07/23.
+//
+
+import UIKit
+
+class CollectionViewCellForStory: UICollectionViewCell {
+    
+    @IBOutlet weak var storyImage: UIImageView!
+}
